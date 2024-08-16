@@ -9,11 +9,11 @@ body {
     justify-content: center;
     min-height: 100vh;
     box-sizing: border-box;
-    background: linear-gradient(135deg, #f4f4f9, #e0e7ff);
+    background: linear-gradient(135deg, #e0f7fa, #bbdefb); /* Degradê azul */
 }
 
 header {
-    background: linear-gradient(135deg, #4CAF50, #2E7D32);
+    background: linear-gradient(135deg, #1E88E5, #1565C0); /* Degradê azul */
     color: white;
     padding: 20px;
     text-align: left;
@@ -91,11 +91,11 @@ h1 {
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #1E88E5;
 }
 
 footer {
-    background: linear-gradient(135deg, #2E7D32, #1B5E20);
+    background: linear-gradient(135deg, #1565C0, #0D47A1); /* Degradê azul */
     color: white;
     padding: 20px;
     text-align: center;
