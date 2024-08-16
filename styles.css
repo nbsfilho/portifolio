@@ -60,7 +60,7 @@ h1 {
 }
 
 .carousel-slide {
-    min-width: 80%;
+    min-width: 100%;
     box-sizing: border-box;
     padding: 10px;
 }
@@ -142,7 +142,7 @@ footer {
     }
 
     .carousel {
-        max-width: 100%;
+        max-width: 70%;
         margin: 20px auto;
     }
 
